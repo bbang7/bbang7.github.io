@@ -1,0 +1,148 @@
+{
+  "introduction": {
+    "name": " ",
+    "jobTitle": " ",
+    "contact": "010-6871-1020",
+    "email": "zxas1245@naver.com",
+    "linkedin": "https://www.linkedin.com/in/byeong-cheol-jo-1b0274310/",
+    "github": "https://github.com/bbang7",
+    "description": "소통으로 가치를 창출하는 개발자 조병철입니다."
+  },
+  "skills": ["Javascript", "Typescript", "HTML", "CSS", "React", "Vue", "Next.js", "Git", "Figma", "Java/Spring"],
+  "education": [
+    {
+      "school": "삼성 청년 SW 아카데미",
+      "subtitle": "멀티캠퍼스",
+      "startDate": "2023.01",
+      "endDate": "2023.12",
+      "gpa": "총 1,600시간",
+      "status": "지역대표(부울경)",
+      "category": "사설교육",
+      "description": "웹 풀스택 교육 및 프로젝트 활동"
+    },
+    {
+      "school": "부경대학교",
+      "subtitle": "컴퓨터공학과",
+      "startDate": "2015.03",
+      "endDate": "2021.02",
+      "gpa": "3.54/4.5",
+      "status": "졸업",
+      "category": "학사"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "별이삼샵",
+      "link": "https://github.com/bbang7/Anonymous-letter-delivery-service",
+      "participants": "프론트엔드 3명, 백엔드 3명",
+      "organization": "삼성 청년 SW 아카데미",
+      "startDate": "2023.10",
+      "endDate": "2023.11",
+      "details": [
+        {
+          "title": "별이삼샵(익명 메일 서비스)",
+          "link": "https://github.com/bbang7/Anonymous-letter-delivery-service",
+
+          "firstTitle": "프로젝트 개요",
+          "firstDescription": "삼성 청년 S/W아카데미 마지막 프로젝트로 서로가 전하지 못한 말을 익명의 편지로 오후 5시에 일괄 전송하여 받을 수 있게 해주는 펜팔 서비스",
+          "secondTitle": "담당 역할 [프론트엔드]",
+          "secondWorks": [
+            "팀장",
+            "편지 보관함 (친구/랜덤) 개발",
+            "펜팔 서비스 UI 제작 및 http 통신",
+            "팀원 Git,Gerrit 활용 보조",
+            "UI디자인"
+          ],
+          "skills": ["React", "Next.js", "Typescript", "Git", "Gerrit", "Figma"]
+        }
+      ]
+    },
+
+    {
+      "name": "이게모징",
+      "participants": "프론트엔드 2명, 백엔드 2명, IoT 2명",
+      "organization": "삼성 청년 SW 아카데미",
+      "startDate": "2023.09",
+      "endDate": "2023.10",
+      "details": [
+        {
+          "title": "이게모징 (사전 검사를 통한 신축 건물 시공 결함 피해 예방 프로젝트)",
+          "link": "https://github.com/bbang7/New-home-flaw-finding-service",
+
+          "firstTitle": "프로젝트 개요",
+          "firstDescription": "신축 건물의 사전 검사 기간 결함 탐지 대행 서비스에 IoT의 실내 자율주행 및 라이다센서를 통해 결함을 찾고 보고서를 제공해주는 서비스",
+          "secondTitle": "담당 역할 [프론트엔드]",
+          "secondWorks": [
+            "모바일 프론트엔드 개발",
+            "백엔드 서버 및 Iot 기기 소켓통신 구현",
+            "바닐라 CSS 스타일 작성",
+            "PWA 적용",
+            "UI 기획/디자인"
+          ],
+          "skills": ["React", "Git", "Figma"]
+        }
+      ]
+    },
+    {
+      "name": "낚낚",
+      "participants": "프론트엔드 3명, 백엔드 3명",
+      "organization": "삼성 청년 SW 아카데미",
+      "startDate": "2023.07",
+      "endDate": "2023.08",
+      "details": [
+        {
+          "title": "낚낚 (초보자를 위한 낚시 어플 서비스)",
+          "link": "https://github.com/bbang7/Fishing-app-for-newbie_NAKNAK",
+
+          "firstTitle": "프로젝트 개요",
+          "firstDescription": "AI를 통해 잡은 어종, 크기를 분석해주고 캐리커쳐를 통해 게이미피케이션을 통해 낚시에 대한 흥미 제공하는 낚시 종합 서비",
+          "secondTitle": "담당 역할 [프론트엔드]",
+          "secondWorks": [
+            "메인 페이지 작성",
+            "물고기 도감 페이지 작성",
+            "소셜 페이지 전반부 제작 및 http 연동",
+            "UI 기획/디자인, 아이콘 제작"
+          ],
+          "skills": ["React", "Recoil", "Git", "Figma"]
+        }
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "contest": "부경대학교 삼성S/W 경진대회",
+      "award": "팀워크상",
+      "date": "2020.12",
+      "institution": "부경대학교 컴퓨터공학과 및 삼성S/W 인력사업단",
+      "description": "Teachable Machine 을 활용한 홈 트레이닝 웹을 통해 팀워크상 수상"
+    },
+    {
+      "contest": "부경대학교 삼성S/W 경진대회",
+      "award": "아이디어상",
+      "date": "2019.11",
+      "institution": "부경대학교 컴퓨터공학과 및 삼성S/W 인력사업단",
+      "description": "VR,UnrealEngine4 를 활용해 콘텐츠 프로토타이핑 애플리케이션 개발을 통해 아이디어상 수상"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "SQLD",
+      "grade": "합격",
+      "date": "2024.06",
+      "issuer": "한국데이터산업진흥원"
+    },
+    {
+      "name": "정보처리기사",
+      "grade": "합격",
+      "date": "2020.12",
+      "issuer": "한국산업인력공단"
+    },
+    {
+      "name": "TOEIC SPEAKING",
+      "grade": "130 / IM3",
+      "date": "2023.03",
+      "issuer": "ETS"
+    }
+  ]
+}
